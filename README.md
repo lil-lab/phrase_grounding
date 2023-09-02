@@ -31,10 +31,8 @@ Key to tasks that require reasoning about natural language in visual contexts is
 To prepare and preprocess data, refer to the [instructions provided](https://github.com/lil-lab/phrase_grounding_working/tree/main/src/preprocessing).
 
 #### 2. Training and Testing Models
-(Detailed instructions on training and testing procedures should be provided here.)
+To train and test models, refer to the [instructions provided](https://github.com/lil-lab/phrase_grounding/tree/main/READMEs).
 
-### Additional Notes
-(Add any other relevant notes, if necessary.)
 
 ### License
 Licensed under the MIT License.
@@ -50,5 +48,3 @@ If our work aids your research, kindly reference our paper:
   archiveprefix = {arXiv}
 }
 ```
-
----
