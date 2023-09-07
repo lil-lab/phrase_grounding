@@ -28,7 +28,7 @@ Key to tasks that require reasoning about natural language in visual contexts is
 ### Quick-start Guide
 
 #### 1. Preparing the Data
-To prepare and preprocess data, refer to the [instructions provided](https://github.com/lil-lab/phrase_grounding_working/tree/main/src/preprocessing).
+To prepare and preprocess data, refer to the [instructions provided](https://github.com/lil-lab/phrase_grounding/tree/main/src/preprocessing).
 
 #### 2. Training and Testing Models
 To train and test models, refer to the [instructions provided](https://github.com/lil-lab/phrase_grounding/tree/main/READMEs).
